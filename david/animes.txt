@@ -1,0 +1,10 @@
+One Piece : Super Powers : 8.72 : true
+Monster : Horror : 8.88 : false
+Code Geass : Mecha : 8.91 : true
+Turn A Gundam : Mecha : 7.78: false
+Heroic Age : Mecha : 7.5 : false
+Dragon Ball Z : Super Powers : 8.19 : true
+Tengen Toppa Gurren Lagann : Mecha : 8.63 : true
+Cowboy Bebop : Space : 8.75 : true
+Bleach : Supernatural : 7.96 : false
+Berserk : Horror : 7.89 : false
