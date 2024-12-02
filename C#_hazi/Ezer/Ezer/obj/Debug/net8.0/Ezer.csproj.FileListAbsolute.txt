@@ -1,0 +1,14 @@
+C:\Users\Jano\source\repos\Ezer\Ezer\bin\Debug\net8.0\Ezer.exe
+C:\Users\Jano\source\repos\Ezer\Ezer\bin\Debug\net8.0\Ezer.deps.json
+C:\Users\Jano\source\repos\Ezer\Ezer\bin\Debug\net8.0\Ezer.runtimeconfig.json
+C:\Users\Jano\source\repos\Ezer\Ezer\bin\Debug\net8.0\Ezer.dll
+C:\Users\Jano\source\repos\Ezer\Ezer\bin\Debug\net8.0\Ezer.pdb
+C:\Users\Jano\source\repos\Ezer\Ezer\obj\Debug\net8.0\Ezer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jano\source\repos\Ezer\Ezer\obj\Debug\net8.0\Ezer.AssemblyInfoInputs.cache
+C:\Users\Jano\source\repos\Ezer\Ezer\obj\Debug\net8.0\Ezer.AssemblyInfo.cs
+C:\Users\Jano\source\repos\Ezer\Ezer\obj\Debug\net8.0\Ezer.csproj.CoreCompileInputs.cache
+C:\Users\Jano\source\repos\Ezer\Ezer\obj\Debug\net8.0\Ezer.dll
+C:\Users\Jano\source\repos\Ezer\Ezer\obj\Debug\net8.0\refint\Ezer.dll
+C:\Users\Jano\source\repos\Ezer\Ezer\obj\Debug\net8.0\Ezer.pdb
+C:\Users\Jano\source\repos\Ezer\Ezer\obj\Debug\net8.0\Ezer.genruntimeconfig.cache
+C:\Users\Jano\source\repos\Ezer\Ezer\obj\Debug\net8.0\ref\Ezer.dll
