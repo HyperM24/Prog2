@@ -1,0 +1,14 @@
+C:\Users\Jano\source\repos\List_Comprehensions\List_Comprehensions\bin\Debug\net8.0\List_Comprehensions.exe
+C:\Users\Jano\source\repos\List_Comprehensions\List_Comprehensions\bin\Debug\net8.0\List_Comprehensions.deps.json
+C:\Users\Jano\source\repos\List_Comprehensions\List_Comprehensions\bin\Debug\net8.0\List_Comprehensions.runtimeconfig.json
+C:\Users\Jano\source\repos\List_Comprehensions\List_Comprehensions\bin\Debug\net8.0\List_Comprehensions.dll
+C:\Users\Jano\source\repos\List_Comprehensions\List_Comprehensions\bin\Debug\net8.0\List_Comprehensions.pdb
+C:\Users\Jano\source\repos\List_Comprehensions\List_Comprehensions\obj\Debug\net8.0\List_Comprehensions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jano\source\repos\List_Comprehensions\List_Comprehensions\obj\Debug\net8.0\List_Comprehensions.AssemblyInfoInputs.cache
+C:\Users\Jano\source\repos\List_Comprehensions\List_Comprehensions\obj\Debug\net8.0\List_Comprehensions.AssemblyInfo.cs
+C:\Users\Jano\source\repos\List_Comprehensions\List_Comprehensions\obj\Debug\net8.0\List_Comprehensions.csproj.CoreCompileInputs.cache
+C:\Users\Jano\source\repos\List_Comprehensions\List_Comprehensions\obj\Debug\net8.0\List_Comprehensions.dll
+C:\Users\Jano\source\repos\List_Comprehensions\List_Comprehensions\obj\Debug\net8.0\refint\List_Comprehensions.dll
+C:\Users\Jano\source\repos\List_Comprehensions\List_Comprehensions\obj\Debug\net8.0\List_Comprehensions.pdb
+C:\Users\Jano\source\repos\List_Comprehensions\List_Comprehensions\obj\Debug\net8.0\List_Comprehensions.genruntimeconfig.cache
+C:\Users\Jano\source\repos\List_Comprehensions\List_Comprehensions\obj\Debug\net8.0\ref\List_Comprehensions.dll
