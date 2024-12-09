@@ -1,0 +1,14 @@
+C:\Users\Jano\source\repos\Pozitiv_egesz\Pozitiv_egesz\bin\Debug\net8.0\Pozitiv_egesz.exe
+C:\Users\Jano\source\repos\Pozitiv_egesz\Pozitiv_egesz\bin\Debug\net8.0\Pozitiv_egesz.deps.json
+C:\Users\Jano\source\repos\Pozitiv_egesz\Pozitiv_egesz\bin\Debug\net8.0\Pozitiv_egesz.runtimeconfig.json
+C:\Users\Jano\source\repos\Pozitiv_egesz\Pozitiv_egesz\bin\Debug\net8.0\Pozitiv_egesz.dll
+C:\Users\Jano\source\repos\Pozitiv_egesz\Pozitiv_egesz\bin\Debug\net8.0\Pozitiv_egesz.pdb
+C:\Users\Jano\source\repos\Pozitiv_egesz\Pozitiv_egesz\obj\Debug\net8.0\Pozitiv_egesz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jano\source\repos\Pozitiv_egesz\Pozitiv_egesz\obj\Debug\net8.0\Pozitiv_egesz.AssemblyInfoInputs.cache
+C:\Users\Jano\source\repos\Pozitiv_egesz\Pozitiv_egesz\obj\Debug\net8.0\Pozitiv_egesz.AssemblyInfo.cs
+C:\Users\Jano\source\repos\Pozitiv_egesz\Pozitiv_egesz\obj\Debug\net8.0\Pozitiv_egesz.csproj.CoreCompileInputs.cache
+C:\Users\Jano\source\repos\Pozitiv_egesz\Pozitiv_egesz\obj\Debug\net8.0\Pozitiv_egesz.dll
+C:\Users\Jano\source\repos\Pozitiv_egesz\Pozitiv_egesz\obj\Debug\net8.0\refint\Pozitiv_egesz.dll
+C:\Users\Jano\source\repos\Pozitiv_egesz\Pozitiv_egesz\obj\Debug\net8.0\Pozitiv_egesz.pdb
+C:\Users\Jano\source\repos\Pozitiv_egesz\Pozitiv_egesz\obj\Debug\net8.0\Pozitiv_egesz.genruntimeconfig.cache
+C:\Users\Jano\source\repos\Pozitiv_egesz\Pozitiv_egesz\obj\Debug\net8.0\ref\Pozitiv_egesz.dll
